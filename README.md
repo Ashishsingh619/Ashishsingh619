@@ -24,5 +24,9 @@
 <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" />
 
+<div align="center">
+  
 ![](https://komarev.com/ghpvc/?username=Ashishsingh619)
+ </div>
+
 
