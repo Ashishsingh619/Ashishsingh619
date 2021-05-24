@@ -3,7 +3,7 @@
 - 🔭 I’m a Student
 - 🌱 I’m currently doing Machine learning
 - 👯 I’m looking to collaborate on Machine Learning Projects
-- 💬 Ask me about java, kotlin, c, c++, python, Numpy, Pandas, Open-CV, Machine learning, HTML, CSS, Bootstrap, Java Script, Django, Git.
+- 💬 Ask me about java, kotlin, c, c++, python, Numpy, Pandas, Open-CV, Machine learning, HTML, CSS, Bootstrap, Java Script, Django, Git, Github.
 
 
 
